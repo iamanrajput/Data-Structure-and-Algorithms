@@ -5,23 +5,30 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 ## Table of Contents
 
 1. [Array](#array)
-2. [Linked List](#linked-list)
-3. [Stack](#stack)
-4. [Queue](#queue)
-5. [Tree](#tree)
-6. [Graph](#graph)
-7. [Hashing](#hashing)
-8. [Dynamic Programming](#dynamic-programming)
-9. [Greedy Algorithms](#greedy-algorithms)
-10. [Sorting](#sorting)
-11. [Searching](#searching)
-12. [Miscellaneous](#miscellaneous)
+2. [2D Array](#2darray)
+3. [Basic Sorting](#sorting)
+4. [Strings](#strings)
+5. [Linked List](#linked-list)
+6. [Stack](#stack)
+7. [Queue](#queue)
+8. [Tree](#tree)
+9. [Graph](#graph)
+10. [Hashing](#hashing)
+11. [Dynamic Programming](#dynamic-programming)
+12. [Greedy Algorithms](#greedy-algorithms)
+13. [Sorting](#sorting)
+14. [Searching](#searching)
+15. [Miscellaneous](#miscellaneous)
 
 ## Array
 
 - [Find the Largest Element](Array/find-largest-element.md)
 - [Check for Palindrome](Array/check-palindrome.md)
 - [Reverse an Array](Array/reverse-array.md)
+
+## 2D Array
+
+## Strings
 
 ## Linked List
 
