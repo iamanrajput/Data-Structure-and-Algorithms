@@ -8,17 +8,18 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 2. [2D Array](#2darray)
 3. [Basic Sorting](#sorting)
 4. [Strings](#strings)
-5. [Linked List](#linked-list)
-6. [Stack](#stack)
-7. [Queue](#queue)
-8. [Tree](#tree)
-9. [Graph](#graph)
-10. [Hashing](#hashing)
-11. [Dynamic Programming](#dynamic-programming)
-12. [Greedy Algorithms](#greedy-algorithms)
-13. [Sorting](#sorting)
-14. [Searching](#searching)
-15. [Miscellaneous](#miscellaneous)
+5. [ArrayList](#arraylist)
+6. [Linked List](#linked-list)
+7. [Stack](#stack)
+8. [Queue](#queue)
+9. [Tree](#tree)
+10. [Graph](#graph)
+11. [Hashing](#hashing)
+12. [Dynamic Programming](#dynamic-programming)
+13. [Greedy Algorithms](#greedy-algorithms)
+14. [Sorting](#sorting)
+15. [Searching](#searching)
+16. [Miscellaneous](#miscellaneous)
 
 ## Array
 
@@ -29,6 +30,8 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 ## 2D Array
 
 ## Strings
+
+## ArrayList
 
 ## Linked List
 
