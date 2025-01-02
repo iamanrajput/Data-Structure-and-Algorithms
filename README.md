@@ -4,7 +4,7 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 
 ## Table of Contents
 
-1. [Arrays](#arrays)
+1. [Array](#array)
 2. [2D Array](#2darray)
 3. [Basic Sorting](#sorting)
 4. [Strings](#strings)
@@ -22,15 +22,15 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 16. [Miscellaneous](#miscellaneous)
 
 ## Array
-- [Array Creation](Arrays/arraycreation.java)
-- [Binary Search](Arrays/binarysearch.java)
-- [Buy and Sell Stocks](Arrays/buyandsellstocks.java)
-- [Find the Largest Element](Arrays/largestelement.java)
-- [Linear Seach](Arrays/linearsearch.java)
-- [Pairs in Array](Arrays/pairsinarray.java)
-- [Rain Water Problem](Arrays/rainwater.java)
-- [Reverse Array](Arrays/reversearray.java)
-- [Find the Subarray Element](Arrays/sunarray.java)
+- [Array Creation](Array/arraycreation.java)
+- [Binary Search](Array/binarysearch.java)
+- [Buy and Sell Stocks](Array/buyandsellstocks.java)
+- [Find the Largest Element](Array/largestelement.java)
+- [Linear Seach](Array/linearsearch.java)
+- [Pairs in Array](Array/pairsinarray.java)
+- [Rain Water Problem](Array/rainwater.java)
+- [Reverse Array](Array/reversearray.java)
+- [Find the Subarray Element](Array/sunarray.java)
 
 ## 2D Array
 
