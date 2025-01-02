@@ -22,10 +22,15 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 16. [Miscellaneous](#miscellaneous)
 
 ## Array
-
+- [Array Creation](Arrays/arraycreation.java)
+- [Binary Search](Arrays/binarysearch.java)
+- [Buy and Sell Stocks](Arrays/buyandsellstocks.java)
 - [Find the Largest Element](Arrays/largestelement.java)
-- [Check for Palindrome](Array/check-palindrome.md)
-- [Reverse an Array](Array/reverse-array.md)
+- [Linear Seach](Arrays/linearsearch.java)
+- [Pairs in Array](Arrays/pairsinarray.java)
+- [Rain Water Problem](Arrays/rainwater.java)
+- [Reverse Array](Arrays/reversearray.java)
+- [Find the Subarray Element](Arrays/sunarray.java)
 
 ## 2D Array
 
