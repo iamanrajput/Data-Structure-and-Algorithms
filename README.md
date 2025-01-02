@@ -4,7 +4,7 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 
 ## Table of Contents
 
-1. [Array](#array)
+1. [Arrays](#arrays)
 2. [2D Array](#2darray)
 3. [Basic Sorting](#sorting)
 4. [Strings](#strings)
@@ -23,7 +23,7 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 
 ## Array
 
-- [Find the Largest Element](Array/find-largest-element.md)
+- [Find the Largest Element](Arrays/largestelement.java)
 - [Check for Palindrome](Array/check-palindrome.md)
 - [Reverse an Array](Array/reverse-array.md)
 
