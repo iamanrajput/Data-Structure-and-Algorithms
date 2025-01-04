@@ -5,7 +5,7 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 ## Table of Contents
 
 1. [Arrays](#arrays)
-2. [2D Array](#2darray)
+2. [2-D Array](#2darray)
 3. [Basic Sorting](#sorting)
 4. [Strings](#strings)
 5. [ArrayList](#arraylist)
@@ -32,7 +32,8 @@ Welcome to the DSA repository! This repository contains solutions to various DSA
 - [Reverse Array](Arrays/reversearray.java)
 - [Find the Subarray Element](Arrays/sunarray.java)
 
-## 2D Array
+## 2-D Array
+- [Creation of 2D Array](2-DArray/creationof2darray.java)
 
 ## Strings
 
