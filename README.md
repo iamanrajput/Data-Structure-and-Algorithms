@@ -2,7 +2,7 @@
 
 Welcome to the DSA repository! This repository contains solutions to various DSA problems organized by topic Each topic folder contains multiple questions, and each question has its own file with the solution.
 
-## Table of Contents..
+## Table of Contents.
 
 1. [Arrays](#arrays)
 2. [2-D Array](#2darray)
