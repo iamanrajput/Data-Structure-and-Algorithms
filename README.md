@@ -1,6 +1,6 @@
 # Data-Structure-and-Algorithms
 
-Welcome to the DSA repository! This repository contains solutions to various DSA problems organized by topic Each topic folder contains multiple questions,. and each question has its own file with the solution..
+Welcome to the DSA repository! This repository contains solutions to various DSA problems organized by topic Each topic folder contains multiple questions,. and each question has its own file with the solution...............
 
 ## Table of Contents
 
